@@ -90,6 +90,10 @@ next(iter)
 -  for 문으로 looping 하는 동안, python 내부에서 임시로 list를 iterator로 자동 변환해주었기 때문이다.
 <br>
 
+**참고** : https://bluese05.tistory.com/55 
+<br>
+<br>
+
 # 2. 가변객체와 불변객체
 - 가변객체 : 객체의 상태를 **바꿀 수 있다.**
 - 불변객체 : 객체의 상태를 **바꿀 수 없다.**
